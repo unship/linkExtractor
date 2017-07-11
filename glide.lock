@@ -1,0 +1,6 @@
+hash: 95c20dce016040705577d5f3707b4d719a867e802039ce2ff5a641b692903204
+updated: 2017-07-11T09:56:11.143152612+08:00
+imports:
+- name: github.com/PuerkitoBio/goquery
+  version: e1271ee34c6a305e38566ecd27ae374944907ee9
+testImports: []
